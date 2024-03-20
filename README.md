@@ -38,7 +38,7 @@
 
   <h1 align="center">
 
-  [**SwiftPM** #NA](#)
+  [**SwiftPM** #7413](https://github.com/apple/swift-package-manager/issues/7413)
 
   </h1>
 </h4>
